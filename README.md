@@ -33,7 +33,7 @@ This project demonstrates an **MCP-style multi-model chatbot** that automaticall
 ---
 
 ## Source Code  
-[**📂 View on GitHub**](https://github.com/eunki-7/mcp-auto-router-chatbot-portfolio)
+[**📂 View on GitHub**]((https://huggingface.co/spaces/eunki-7/mcp-auto-router-chatbot/tree/main)
 
 ---
 
